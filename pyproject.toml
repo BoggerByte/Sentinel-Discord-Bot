@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "Sentinel-discord-bot-v2"
+name = "Sentinel-discord-bot"
 version = "0.1.0"
 description = ""
 authors = ["Nick Troshnev <nik.troshnev@gmail.com>"]
