@@ -1,4 +1,4 @@
-from sentinel_discord_bot_v2 import __version__
+from sentinel_discord_bot import __version__
 
 
 def test_version():
