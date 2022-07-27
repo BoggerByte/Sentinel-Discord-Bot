@@ -6,7 +6,6 @@ from loguru import logger
 
 import config
 from command_groups import punishments, amnesties
-from sentinel_backend import SentinelBackend
 
 bot = discord.Bot(debug_guilds=[827116545724383242])
 bot.add_application_command(punishments.group)
